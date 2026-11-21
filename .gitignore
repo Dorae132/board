@@ -1,0 +1,9 @@
+vendor/
+.idea/
+output/
+*.swp
+test.sh
+.deploy/
+.statsd/
+NUWA-GOLANG-PROJECT
+.DS_Store
